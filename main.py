@@ -5,7 +5,7 @@ from urllib import response
 import requests
 
 
-api_key="29f2013083a11e82bc35e6604ce77fc3"
+api_key="ENTER YOUR API KEY HERE"
 
 end_point = "https://api.openweathermap.org/data/2.5/onecall"
 
